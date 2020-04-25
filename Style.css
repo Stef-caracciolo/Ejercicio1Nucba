@@ -1,0 +1,32 @@
+body {
+    background-image: url(./imagenes/4k.jpg);
+}
+h1{
+    color: violet;
+    text-align: center;
+}
+
+h3{
+color: hotpink; 
+  
+}
+a{
+    color: coral;
+}
+h4{
+    color: yellow;
+}
+h2{
+    color: thistle;
+}
+
+
+form{
+    color: white;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    color: yellow;
+}
